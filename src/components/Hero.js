@@ -17,7 +17,7 @@ function Hero() {
       </p>
 
       <a
-        href="https://drive.google.com/file/d/1LLoVv-ztBQTmkGfWfwbcfSLzBHUVT4sr/view?usp=sharing"  
+        href="https://drive.google.com/file/d/1ly-yrgM0NG40W2Wlwca6rIVP7VtyidiB/view?usp=sharing"  
         target="_blank"
         rel="noopener noreferrer"
         className="px-6 py-3 bg-purple-600 text-white font-semibold rounded-lg shadow-lg 
